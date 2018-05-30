@@ -1,0 +1,29 @@
+{
+  "name": "js-timeit",
+  "version": "0.1.0",
+  "description": "Node js module for splitting time into multiple units",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/**_spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchezpaco/js-timeit.git"
+  },
+  "keywords": [
+    "time",
+    "nodejs",
+    "units",
+    "passedtime"
+  ],
+  "author": "Paco Sanchez <sanchezpaco3@gmail.com> (https://github.com/sanchezpaco)",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/sanchezpaco/js-timeit/issues"
+  },
+  "homepage": "https://github.com/sanchezpaco/js-timeit#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
